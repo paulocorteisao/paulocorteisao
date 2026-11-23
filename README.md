@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README — Paulo Gaspar
+  GitHub Profile README — Paulo Gaspar Corteisão
   Repositório: paulocorteisao/paulocorteisao
   Personaliza os links marcados com SUBSTITUIR antes de publicar.
 -->
