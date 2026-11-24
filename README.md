@@ -76,16 +76,6 @@ Gosto de aprender construindo: exploro tecnologias, desenvolvo projetos e procur
 
 ---
 
-## 📈 Gráfico de contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulocorteisao&bg_color=0D1117&color=E6EDF3&line=65D9A0&point=65D9A0&area=true&hide_border=true" alt="Gráfico de atividade e contribuições no GitHub">
-
-</div>
-
----
-
 ## 🌐 Encontra-me nas redes
 
 <div align="center">
