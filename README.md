@@ -66,9 +66,15 @@ Gosto de aprender construindo: exploro tecnologias, desenvolvo projetos e procur
 
 <div align="center">
 
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-SUBSTITUIR-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/SUBSTITUIR/)
-[![LinkedIn](https://img.shields.io/badge/[LinkedIn-SUBSTITUIR-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gaspar-a232053ab/)]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gaspar-a232053ab/)
+
 [![YouTube](https://img.shields.io/badge/YouTube-SUBSTITUIR-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SUBSTITUIR)
+
+</div>
 
 </div>
 
