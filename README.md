@@ -43,7 +43,7 @@ Gosto de aprender construindo: exploro tecnologias, desenvolvo projetos e procur
 ## 🧰 Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,vscode&theme=dark" alt="Tecnologias: HTML, CSS, JavaScript, React, Node.js, PHP, MySQL, Git, GitHub e VS Code">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,vscode&theme=dark" alt="Tecnologias: HTML, CSS, JavaScript, React, Node.js, PHP, MySQL,Docker, Git, GitHub e VS Code">
 </p>
 
 > Estou em constante aprendizagem. Esta lista representa tecnologias com que estudo, pratico ou pretendo aprofundar conhecimentos.
@@ -54,25 +54,11 @@ Gosto de aprender construindo: exploro tecnologias, desenvolvo projetos e procur
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **SGAP** | Sistema de Gestão de Assiduidade e Pontualidade. | `SUBSTITUIR` |
-| **OCILI** | Conceito de assistente jurídico com Inteligência Artificial, orientado para o contexto angolano. | `SUBSTITUIR` |
-| **Thing of Dev** | Ideia de plataforma com conteúdos, recursos e comunidade para programadores. | `SUBSTITUIR` |
-
-> Adiciona os links dos repositórios quando estiverem públicos. Podes também substituir ou remover projetos que ainda não estejam publicados.
+| **SGAP** | Sistema de Gestão de Assiduidade e Pontualidade. | 
+| **OCILI** | Conceito de assistente jurídico com Inteligência Artificial, orientado para o contexto angolano. | 
+| **Thing of Dev** | Ideia de plataforma com conteúdos, recursos e comunidade para programadores. | 
 
 - [Ver todos os meus repositórios](https://github.com/paulocorteisao?tab=repositories)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=paulocorteisao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=65D9A0&icon_color=65D9A0&text_color=E6EDF3&include_all_commits=true" alt="Estatísticas do GitHub de Paulo Gaspar">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocorteisao&layout=compact&hide_border=true&bg_color=0D1117&title_color=65D9A0&text_color=E6EDF3" alt="Linguagens mais utilizadas">
-
-</div>
 
 ---
 
